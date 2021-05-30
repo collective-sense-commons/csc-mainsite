@@ -1,6 +1,7 @@
 ## Quick Links
 
 - Our chat service, [CSC Mattermost](https://chat.collectivesensecommons.org/). Sign in or create no-cost account using your email address.  Select the "Agora" team if asked.
+- Status of CSC services: [status.collectivesensecommons.org](https://status.collectivesensecommons.org/)
 
 ## About Collective Sense Commons
 

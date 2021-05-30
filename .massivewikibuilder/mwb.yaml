@@ -5,7 +5,7 @@ wiki_title: Collective Sense Commons
 author: the CSC website team
 
 # the centralized Git repo (an HTML link is good)
-repo: '<a href="https://github.com/CollectiveSenseCommons/csc-mainsite">GitHub/CollectiveSenseCommons/csc-mainsite</a>'
+repo: '<a href="https://github.com/collective-sense-commons/csc-mainsite">GitHub/collective-sense-commons/csc-mainsite</a>'
 
 # the license for the wiki (a Creative Commons HTML link is good)
 license: '<a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>'
