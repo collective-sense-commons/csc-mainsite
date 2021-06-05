@@ -1,9 +1,6 @@
-## Quick Links
+## Welcome to Collective Sense Commons
 
-- Our chat service, [CSC Mattermost](https://chat.collectivesensecommons.org/). Sign in or create no-cost account using your email address.  Select the "Agora" team if asked.
-- Status of CSC services: [status.collectivesensecommons.org](https://status.collectivesensecommons.org/)
-
-## About Collective Sense Commons
+Status of CSC services: [status.collectivesensecommons.org](https://status.collectivesensecommons.org/)
 
 Collective Sense Commons is a public benefit project organized and supported by Peter Kaminski and others to provide coordination, communication, and sensemaking tools to individuals and organizations that are involved with collective sensemaking.
 
@@ -14,12 +11,13 @@ Organizations and individuals are encouraged to use and protect the services as 
 ### Existing commons service
 
 -   Synchronous and asynchronous channel-based chat: [CSC Mattermost](https://chat.collectivesensecommons.org/)
+-   Real-time collaborative text editing: [MeetingWords](http://meetingwords.com/)
 
 ### Planned commons services
 
 -   Long-term discussion and deliberation forums using Discourse.
 -   Group memory and archives using [Massive Wikis](https://massive.wiki/).
--   Other services such as people/project directories, project management, polling, questionnaires, etc.
+-   Other services such as GitLab, people/project directories, project management, polling, questionnaires, etc.
 
 ### Planned partner services
 _provided by organizational members of the network_
