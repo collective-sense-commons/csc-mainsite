@@ -2,7 +2,7 @@
 
 Status of CSC services: [status.collectivesensecommons.org](https://status.collectivesensecommons.org/)
 
-Collective Sense Commons is a public benefit project organized and supported by Peter Kaminski and others to provide coordination, communication, and sensemaking tools to individuals and organizations that are involved with collective sensemaking.
+Collective Sense Commons is a public benefit project organized and supported by Peter Kaminski and others to provide coordination, communication, and sensemaking tools to individuals and organizations that are involved with collective sensemaking. CSC is part of the [Massive Human Intelligence Project](https://massivehumanintelligence.org/).
 
 Organizations and individuals are encouraged to use and protect the services as a community commons.
 
