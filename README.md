@@ -12,7 +12,7 @@ Organizations and individuals are encouraged to use and protect the services as 
 
 - Synchronous and asynchronous channel-based chat: [CSC Mattermost](https://chat.collectivesensecommons.org/)
 - Real-time collaborative text editing: [MeetingWords](http://meetingwords.com/)
-- [Biweekly Plex Dispatch](https://plex.collectivesensecommons.org/), an inter-community newspaper published twice 
+- [Biweekly Plex Dispatch](https://plex.collectivesensecommons.org/), an inter-community newspaper published twice a month
 
 ### Planned commons services
 
