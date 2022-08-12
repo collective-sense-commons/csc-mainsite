@@ -8,22 +8,23 @@ Organizations and individuals are encouraged to use and protect the services as 
 
 ## Our Services
 
-### Existing commons service
+### Existing commons services
 
--   Synchronous and asynchronous channel-based chat: [CSC Mattermost](https://chat.collectivesensecommons.org/)
--   Real-time collaborative text editing: [MeetingWords](http://meetingwords.com/)
+- Synchronous and asynchronous channel-based chat: [CSC Mattermost](https://chat.collectivesensecommons.org/)
+- Real-time collaborative text editing: [MeetingWords](http://meetingwords.com/)
+- [Biweekly Plex Dispatch](https://plex.collectivesensecommons.org/), an inter-community newspaper published twice 
 
 ### Planned commons services
 
--   Long-term discussion and deliberation forums using Discourse.
--   Group memory and archives using [Massive Wikis](https://massive.wiki/).
--   Other services such as GitLab, people/project directories, project management, polling, questionnaires, etc.
+- Long-term discussion and deliberation forums using Discourse.
+- Group memory and archives using [Massive Wikis](https://massive.wiki/).
+- Other services such as GitLab, people/project directories, project management, polling, questionnaires, etc.
 
 ### Planned partner services
 _provided by organizational members of the network_
 
--   Group facilitation and process mentoring for using chat, discussion, wiki.
--   "Sensemaking as a service" and mentorship in collaborative sensemaking.
+- Group facilitation and process mentoring for using chat, discussion, wiki.
+- "Sensemaking as a service" and mentorship in collaborative sensemaking.
 
 ### Private and commercial services and consulting
 
