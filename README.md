@@ -18,7 +18,7 @@ Organizations and individuals are encouraged to use and protect the services as 
 
 - Long-term discussion and deliberation forums using Discourse.
 - Group memory and archives using [Massive Wikis](https://massive.wiki/).
-- Other services such as GitLab, people/project directories, project management, polling, questionnaires, etc.
+- Other services such as Gitea, people/project directories, project management, polling, questionnaires, etc.
 
 ### Planned partner services
 _provided by organizational members of the network_
