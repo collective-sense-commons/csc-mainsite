@@ -20,7 +20,7 @@ Plans as of 2025-09-12:
 
 ### MeetingWords
 
-Pete recommends HackMD. HackMD notes can be set to public read/write for flexible use without editors needing to sign in.
+- Pete recommends HackMD. HackMD notes can be set to public read/write for flexible use without editors needing to sign in.
 
 ## Private and commercial services and consulting
 
